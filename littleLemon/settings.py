@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-)@_(1zicum+^5ej@@#5lr7u!-!&%d!t@%fk9oagfj($kvlnbt@
 DEBUG = True
 DATABASE_URL = os.environ.get("DATABASE_URL")
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["little-lemon-tlz9.onrender.com"]
 
 
 # Application definition
